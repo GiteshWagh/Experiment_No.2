@@ -1,3 +1,3 @@
-#  Experiment_No.1 : Basics Of Python Programming
+#  Experiment_No.1 : Python Installation 
 ## Tools: Google Colab & Python
 ## Theory : 
